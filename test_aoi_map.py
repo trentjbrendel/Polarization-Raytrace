@@ -5,7 +5,8 @@ import matplotlib.pyplot as plt
 # Test the AOI map
 n1 = 1.6146
 n2 = 1
-pth = '/Users/jashcraft/Desktop/prt-data/test_prt_data.txt'
+pth = '/Users\trent\Documents\GitHub\Polarization-Raytrace\test_prt_data.txt'
+#pth = '/Users/jashcraft/Desktop/prt-data/test_prt_data.txt'
 
 def GenAOIMap(fn,n1,n2):
 
